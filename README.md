@@ -5,5 +5,5 @@
 - [Extened markdown syntax](https://www.markdownguide.org/extended-syntax/)
 
 * Markdown Live Preview
-- [Markdown Live Preview](https://markdownlivepreview.com/) 
+- [https://markdownlivepreview.com/](https://markdownlivepreview.com)
   
